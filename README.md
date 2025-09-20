@@ -72,9 +72,9 @@
 
 ## 📌 Selected project highlights
 
-### Train Diagnostics & Monitoring System Resful API
+### Train Diagnostics & Monitoring System RESTful API
 
-* Designed REST API covering 15+ business features
+* Designed REST API covering 25+ business features
 * Integrated with corporate API handling 10k+ async requests/day
 * Implemented JWT auth (access + refresh tokens)
 * Built custom admin panel with RBAC & email notifications
